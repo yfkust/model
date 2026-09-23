@@ -1,0 +1,5 @@
+interface:
+  display_name: "Modeling Paper Writing"
+  short_description: "Write an evidence-led modeling competition paper"
+  default_prompt: "Use $modeling-paper-writing to draft or revise this modeling paper from the verified analysis and results."
+

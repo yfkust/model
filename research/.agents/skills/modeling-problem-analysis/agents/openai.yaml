@@ -1,0 +1,5 @@
+interface:
+  display_name: "Modeling Problem Analysis"
+  short_description: "Build a traceable blind Problem Card"
+  default_prompt: "Use $modeling-problem-analysis to produce a blind Problem Card from the permitted official sources."
+

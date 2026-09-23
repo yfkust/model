@@ -1,0 +1,5 @@
+interface:
+  display_name: "Modeling Solution Review"
+  short_description: "Audit modeling rigor, leakage, and feasibility"
+  default_prompt: "Use $modeling-solution-review to audit this modeling artifact and report prioritized, evidence-based findings."
+

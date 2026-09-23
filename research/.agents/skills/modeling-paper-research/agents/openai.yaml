@@ -1,0 +1,5 @@
+interface:
+  display_name: "Modeling Paper Research"
+  short_description: "Create one isolated, evidence-linked Paper Card"
+  default_prompt: "Use $modeling-paper-research to independently analyze one permitted excellent paper into a Paper Card."
+
